@@ -1,0 +1,6 @@
+Applications:
+    isotropic_hardening:
+        app_types:
+            - isotropic_hardeningApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
